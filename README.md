@@ -33,7 +33,7 @@ Getting CalcMaster 360 running is super easy:
 
 ### Step 1: Download the project
 ```bash
-git clone https://github.com/your-username/CalcMaster360
+git clone https://github.com/shivamdubey0001/CalcMaster-360
 cd CalcMaster360
 ```
 
