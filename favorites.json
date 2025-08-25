@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Monthly EMI Calculation",
+    "expression": "EMI: Loan=500000, Rate=8.5%, Time=5 years",
+    "category": "financial",
+    "created": "2024-01-15 14:27:45",
+    "last_used": "2024-01-15 14:45:22",
+    "usage_count": 3,
+    "description": "Home loan EMI calculation for 5 lakh at 8.5% for 5 years"
+  },
+  {
+    "name": "Square Root Shortcut",
+    "expression": "sqrt(144)",
+    "category": "scientific",
+    "created": "2024-01-15 14:26:18",
+    "last_used": "2024-01-15 14:50:15",
+    "usage_count": 5,
+    "description": "Quick square root reference"
+  },
+  {
+    "name": "USD to EUR Converter",
+    "expression": "100 USD to EUR",
+    "category": "financial",
+    "created": "2024-01-15 14:28:30",
+    "last_used": "2024-01-15 14:48:10",
+    "usage_count": 7,
+    "description": "Common currency conversion for travel"
+  },
+  {
+    "name": "Compound Interest Formula",
+    "expression": "CI: P=10000, R=5%, T=3 years, N=1",
+    "category": "financial",
+    "created": "2024-01-15 14:33:40",
+    "last_used": "2024-01-15 14:52:30",
+    "usage_count": 2,
+    "description": "Standard compound interest calculation"
+  },
+  {
+    "name": "Temperature Conversion",
+    "expression": "Convert: 25 celsius to fahrenheit",
+    "category": "conversion",
+    "created": "2024-01-15 14:34:28",
+    "last_used": "2024-01-15 14:47:18",
+    "usage_count": 4,
+    "description": "Celsius to Fahrenheit conversion reference"
+  },
+  {
+    "name": "GST Calculation",
+    "expression": "GST Add: Amount=1000, Rate=18%",
+    "category": "financial",
+    "created": "2024-01-15 14:30:22",
+    "last_used": "2024-01-15 14:49:05",
+    "usage_count": 6,
+    "description": "Standard 18% GST calculation"
+  },
+  {
+    "name": "Kilometers to Miles",
+    "expression": "Convert: 10 kilometer to mile",
+    "category": "conversion",
+    "created": "2024-01-15 14:31:10",
+    "last_used": "2024-01-15 14:46:40",
+    "usage_count": 3,
+    "description": "Distance conversion for travel planning"
+  },
+  {
+    "name": "Power of Two",
+    "expression": "2^8",
+    "category": "scientific",
+    "created": "2024-01-15 14:32:05",
+    "last_used": "2024-01-15 14:51:20",
+    "usage_count": 8,
+    "description": "Common power calculation for computer science"
+  }
+]

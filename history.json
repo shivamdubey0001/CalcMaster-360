@@ -1,0 +1,72 @@
+[
+  {
+    "timestamp": "2024-01-15 14:25:32",
+    "calculation": "15 + 27",
+    "result": "42",
+    "mode": "basic",
+    "favorite": false
+  },
+  {
+    "timestamp": "2024-01-15 14:26:18",
+    "calculation": "sqrt(144)",
+    "result": "12.0",
+    "mode": "scientific",
+    "favorite": false
+  },
+  {
+    "timestamp": "2024-01-15 14:27:45",
+    "calculation": "EMI: Loan=500000, Rate=8.5%, Time=5 years",
+    "result": "10268.42",
+    "mode": "financial",
+    "favorite": true
+  },
+  {
+    "timestamp": "2024-01-15 14:28:30",
+    "calculation": "Convert: 100 USD to EUR",
+    "result": "92.0",
+    "mode": "conversion",
+    "favorite": false
+  },
+  {
+    "timestamp": "2024-01-15 14:29:15",
+    "calculation": "sin(45)",
+    "result": "0.7071067811865475",
+    "mode": "scientific",
+    "favorite": false
+  },
+  {
+    "timestamp": "2024-01-15 14:30:22",
+    "calculation": "GST Add: Amount=1000, Rate=18%",
+    "result": "1180.0",
+    "mode": "financial",
+    "favorite": false
+  },
+  {
+    "timestamp": "2024-01-15 14:31:10",
+    "calculation": "Convert: 10 kilometer to mile",
+    "result": "6.2137119223733395",
+    "mode": "conversion",
+    "favorite": false
+  },
+  {
+    "timestamp": "2024-01-15 14:32:05",
+    "calculation": "2^8",
+    "result": "256",
+    "mode": "scientific",
+    "favorite": false
+  },
+  {
+    "timestamp": "2024-01-15 14:33:40",
+    "calculation": "CI: P=10000, R=5%, T=3 years, N=1",
+    "result": "11576.25",
+    "mode": "financial",
+    "favorite": true
+  },
+  {
+    "timestamp": "2024-01-15 14:34:28",
+    "calculation": "Convert: 25 celsius to fahrenheit",
+    "result": "77.0",
+    "mode": "conversion",
+    "favorite": false
+  }
+]
